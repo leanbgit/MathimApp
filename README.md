@@ -2,7 +2,7 @@
 
 Mathimapp is a personal Kotlin Multiplatform project for learning and practicing mathematics through structured courses, lessons, and exercises.
 
-The goal of the project is to explore how a real educational app can be built across mobile and backend layers: a shared Compose Multiplatform client, a Ktor API, reusable Kotlin serialization contracts, and persistent learning data. It is designed as a portfolio project that demonstrates full-stack Kotlin development, clean module boundaries, and practical app architecture.
+The goal of the project is to explore how a real educational app can be built across mobile and backend layers: a shared Compose Multiplatform client, a Ktor API, reusable Kotlin serialization contracts, and persistent learning data.
 
 ## Features
 
